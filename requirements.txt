@@ -1,0 +1,6 @@
+# Requirements for both Mac and Windows
+selenium
+robotframework
+robotframework-selenium2library
+
+
